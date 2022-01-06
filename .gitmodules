@@ -1,0 +1,3 @@
+[submodule "catalogo/themes/LoveIt"]
+	path = catalogo/themes/LoveIt
+	url = https://github.com/dillonzq/LoveIt.git
